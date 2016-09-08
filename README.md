@@ -1,3 +1,4 @@
+![](https://codeship.com/projects/e326c6d0-57a3-0134-4400-2a1cd9b4d466/status?branch=master)
 # template-proyecto-scala
 
  - [Cómo configurar el IDE](https://www.youtube.com/watch?v=yvoeJpxGLTU&list=PLTu6t0ymUxWpv40YiMXbfCE7e6oUeaqVa)
